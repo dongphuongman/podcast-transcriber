@@ -22,6 +22,13 @@ Podcast Transcriber is a full-stack web application designed to bridge the gap b
 - **📱 Responsive Design**: Modern mobile-first UI, friendly experience for both desktop and mobile
 - **🌍 Conditional Translation**: When the selected summary language differs from the detected transcript language, the system auto-translates with GPT‑4o
 
+This tool is the open-source part of **[sipsip.ai](https://sipsip.ai)**. The full product goes further:
+- 📧 **Daily email briefs** — follow your favorite creators and get an AI-curated digest in your inbox every morning
+- ⚡ Transcribe & summarize any video or podcast on demand
+- 🌐 Multi-language support across all features
+
+**Free to start** — no credit card required. ➡️ [sipsip.ai](https://sipsip.ai)
+
 ## 🏗️ Architecture & Implementation
 
 ### System Architecture
